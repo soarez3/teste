@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(15, 90, 65);
+    
+
+
+}
+header{
+color: antiquewhite;
+text-align: center;
+background-image: linear-gradient(to right, transparent,rgba(0, 0, 0, 0.103),transparent);
+font-family: cursive;
+
+
+
+}
+#h{
+    color: wheat;
+    text-align: center;
+    font-family: cursive;
+}
+section{
+background-color: antiquewhite;
+border-radius: 10px;
+padding: 15px;
+margin: auto;
+text-align: center;
+width: 380px;
+
+box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.521);
+
+}
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial;
+    background-color: rgba(0, 0, 0, 0.171);
+    
+
+}
+div#msg{
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 12px;
+}
+#num{
+    width: 80px;
+    text-align: center;
+}
+input{
+    text-align: center;
+}
