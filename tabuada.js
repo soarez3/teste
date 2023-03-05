@@ -1,7 +1,7 @@
 function gerar(){
     var n1 = document.getElementById("num")
     var res = document.getElementById("res")
-
+// teste
     res.innerHTML = " "
     if (n1.value.length == 0){
         alert ("Digite um valor")
